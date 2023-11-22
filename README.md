@@ -14,7 +14,7 @@ Features:
 
 Download The Project Here
 -------------------------------------------------
-![Download](https://github.com/Haj4li/OpenGL-Pixel-Art-Drawing-Tool/releases/download/Final/OpenGL-Pixel-Art-Drawing-Tool.exe)
+![Download](https://github.com/Haj4li/OpenGL-Pixel-Art-Drawing-Tool/releases/)
 -------------------------------------------------
 
 #define WIDTH 1000
