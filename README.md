@@ -8,6 +8,9 @@ An OpenGL Pixel Art Drawing Tool
 Change the screen and pixel size here 
 
 #define WIDTH 1000
+
 #define HEIGHT 650
+
 int spaces = 15;
+
 
