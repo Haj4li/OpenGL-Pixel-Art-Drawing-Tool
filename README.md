@@ -12,6 +12,10 @@ Features:
 - [X] Set the pixel position fixed to the table
 - [X] And much more !  
 
+Download The Project Here
+-------------------------------------------------
+![Download](https://github.com/Haj4li/OpenGL-Pixel-Art-Drawing-Tool/releases/download/Final/OpenGL-Pixel-Art-Drawing-Tool.exe)
+-------------------------------------------------
 
 #define WIDTH 1000
 
