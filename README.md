@@ -7,6 +7,12 @@ An OpenGL Pixel Art Drawing Tool
 
 Change the screen and pixel size here 
 
+Features:
+- [X] A Color Slider (Yaaaay !!!)
+- [X] Set the pixel position fixed to the table
+- [X] And much more !  
+
+
 #define WIDTH 1000
 
 #define HEIGHT 650
